@@ -1656,7 +1656,7 @@ label {
   .es-tabbed
   [type='radio']:nth-of-type(3):checked
   ~ .es-tab-content:nth-of-type(3) {
-    height: 600px;
+    height: 650px;
     font-size: 20px;
     line-height: 1.4;
   }
